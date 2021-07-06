@@ -15,14 +15,14 @@ A Tutorial has been uploaded on YouTube <img src="https://www.youtube.com/about/
 
 ## 📝 [Support Server](https://discord.gg/uUuHMa7h46)
 
-Do you have any issues with the bot? Head to our [Discord Server](https://discord.gg/uUuHMa7h46) where we can help you faster than creating a GitHub issue. If you have a major bug to report, it would be best to create an [issue here](https://github.com/MrHyperGaming/muischyper/issues).
+Do you have any issues with the bot? Head to our [Discord Server](https://discord.gg/uUuHMa7h46) where we can help you faster than creating a GitHub issue. If you have a major bug to report, it would be best to create an [issue here](https://github.com/MrHyperGaming/musichyper/issues).
 
 
 ## 💨 Run the projects
 
-Glitch: [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/MrHyperGaming/muischyper)
-Repl: [![Run on Repl.it](https://repl.it/badge/github/MrHyperGaming/muischyper)](https://repl.it/github/MrHyperGaming/muischyper)
-Heroku: [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrHyperGaming/muischyper)
+Glitch: [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/MrHyperGaming/musichyper)
+Repl: [![Run on Repl.it](https://repl.it/badge/github/MrHyperGaming/musichyper)](https://repl.it/github/MrHyperGaming/musichyper)
+Heroku: [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrHyperGaming/musichyper)
 
 ## ✨ Contributors
 
